@@ -8,17 +8,17 @@ The spam classifier system is built with the following components:
 
 
 ## Data:
-# spam.csv: The dataset used for training and testing the spam classifier.
+### spam.csv: The dataset used for training and testing the spam classifier.
 
-### Machine Learning Code:
+## Machine Learning Code:
 The ML code for the Email and SMS spam classifier is in the sms-spam-detection.ipynb file.
 
 Store the use Ml model as Pickel file to connect with website.
 
-### Web Application:
+## Web Application:
 The web interface for the Email and SMS spam classifier is built using Streamlit.
 
-### Setup Instructions
+## Setup Instructions
 To ensure that your global Python environment remains unaffected, it is recommended to use a virtual environment.
 
 ## Create and Activate Virtual Environment
